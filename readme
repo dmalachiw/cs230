@@ -1,0 +1,51 @@
+Devin Wright 
+
+ 
+
+Brief Summary of The Gaming Room Client and Their Software Requirements 
+
+The Gaming Room company focuses on developing interactive gaming experiences. The main requirement from the client was to develop a game application that works on various operating systems. The objective was to develop software architecture that delivers scalability alongside security performance and maintains multi-platform compatibility. The client required the software design to follow best development practices while ensuring structure and maintainability. 
+
+Strengths in Developing This Documentation  
+
+The software design document I worked on excelled because of its organized and clear presentation. The document showcased well-structured sections dedicated to requirements analysis, system design, class diagrams, and implementation details. The use of structured UML diagrams offered stakeholders a visual system architecture representation to facilitate their understanding. 
+
+How the Design Document Helped in Development  
+
+The software design document served as a detailed guide for the development team throughout the development phase. The pre-definition of system architecture, data flow, and dependencies enabled me to: 
+
+ Minimize development delays by detecting possible bottlenecks at an early stage. 
+
+ Establish consistent coding standards for future scalability.  
+
+ A shared reference document helps team members communicate more effectively. 
+
+Through this procedure I understood better how planning before coding helps reduce mistakes while enhancing code maintainability. 
+
+Areas for Improvement and Future Revisions  
+
+My main revision would target the security model through the addition of comprehensive authentication and authorization mechanisms. The foundational document established fundamental security guidelines but examining data encryption alongside secure API access and role-based authentication would improve the overall design. Examining real-world case studies of similar systems could help identify potential challenges and highlight best practices. 
+
+Software design requires developers to interpret user needs and implement their requirements. Effective software design requires a deep understanding of user needs to fulfill both functional and non-functional requirements. I gathered user requirements by:  
+
+  
+
+I evaluated the client's business objectives along with their current technological setup. 
+
+I divided requirements into user stories to ensure clear understanding and effective prioritization. 
+
+The design document includes technical specifications that directly correspond to user needs. Starting software development with user needs enables the creation of systems that are intuitive to use and fulfill business goals while operating efficiently. 
+
+Approach to Software Design and Future Strategies   
+
+An Agile methodology guides my software design process which allows requirements to evolve across iterative cycles. Some key techniques I used include:  
+
+  
+
+The software's modular architecture provides scalability while simplifying maintenance tasks. 
+
+Using object-oriented programming principles (OOP) leads to improved code organization. 
+
+I implemented UML diagrams to create a visual representation of the system's architecture. 
+
+Future plans include implementing design patterns alongside automated testing frameworks and CI/CD pipelines to enhance development and deployment efficiencies. 
